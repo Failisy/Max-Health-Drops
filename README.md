@@ -1,4 +1,5 @@
-# MaxHealthDrops
+# Max Health Drops
+> pack_format: 12, version 1.19.4
 받은 피해만큼 최대 체력을 드랍시킵니다.
 
 들고 있는 아이템을 최대 체력을 약탈할 수 있는 무기로 변경합니다.
